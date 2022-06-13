@@ -5,5 +5,5 @@ A Scientific NER System based on an Bi-LSTM core architecture and Sci-BERT langu
 
 Our work is published in ... ... Please use the following to cite our work:
 
-        Andres Erazo, Logan Markewich, Roy Lee, and Seok-Bum Ko. "Sci-BERT+: a Scientific NER System based on an Bi-LSTM core 
-        architecture and Sci-BERT language model". ...
+        Andres Erazo, Logan Markewich, Roy Lee, and Seok-Bum Ko. "Sci-BERT+: a Scientific NER System based on 
+        an Bi-LSTM core architecture and Sci-BERT language model". ...
